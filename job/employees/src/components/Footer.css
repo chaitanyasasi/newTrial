@@ -1,0 +1,90 @@
+.mainPart {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(204, 223, 217);
+}
+
+.about {
+    width: 25%;
+    font-size: small;
+    /* display: inline-block; */
+    margin-top: 40px;
+
+
+}
+.about1{
+    margin-top: 40px;
+
+}
+
+.about a {
+    text-decoration-line: none;
+    color: rgb(112, 105, 105);
+    display: block;
+}
+
+.about1 a {
+    text-decoration-line: none;
+    display: block;
+    margin-top: 7px;
+}
+
+.para {
+    color: rgb(112, 105, 105);
+}
+
+.fb {
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 50%;
+
+}
+
+.link {
+    width: 35px;
+    height: 35px;
+    background-color: skyblue;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 50%;
+}
+
+.twit {
+    width: 70px;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+    font-weight: semibold;
+    color: white;
+    border-radius: 10px;
+}
+
+.utube {
+    width: 80px;
+    height: 30px;
+    background-color: red;
+    text-align: center;
+    font-size: 20px;
+    font-weight: semibold;
+    color: white;
+    border-radius: 15px;
+}
+
+.insta {
+    width: 55px;
+    height: 35px;
+    background-color: mediumorchid;
+    text-align: center;
+    font-size: 20px;
+    font-weight: semibold;
+    color: white;
+    border-radius: 50%;
+}
